@@ -1,6 +1,6 @@
 # npmtest-grunt-remove-logging
 
-#### test coverage for  [grunt-remove-logging (v0.2.0)](https://github.com/ehynds/grunt-remove-logging#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-grunt-remove-logging.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-grunt-remove-logging) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-grunt-remove-logging.svg)](https://travis-ci.org/npmtest/node-npmtest-grunt-remove-logging)
+#### basic test coverage for  [grunt-remove-logging (v0.2.0)](https://github.com/ehynds/grunt-remove-logging#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-grunt-remove-logging.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-grunt-remove-logging) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-grunt-remove-logging.svg)](https://travis-ci.org/npmtest/node-npmtest-grunt-remove-logging)
 
 #### Grunt task to remove console logging statements
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-grunt-remove-logging/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-grunt-remove-logging/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-grunt-remove-logging/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-grunt-remove-logging/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-grunt-remove-logging/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-grunt-remove-logging/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-grunt-remove-logging/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-grunt-remove-logging/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-grunt-remove-logging/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-grunt-remove-logging/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-grunt-remove-logging/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-grunt-remove-logging/build/coverage.html/index.html)
 
